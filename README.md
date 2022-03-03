@@ -1,9 +1,13 @@
-### Hi there 👋
-##  I am Ashraf Dawoud Working as Android Developer +2 Years Experience
+### Hi there 👋 , I'm [Ashraf Dawoud](https://github.com/ashrafdawoud) 
+
+### I am Working as Android Developer +2 Years Experience
+I am Currently Planning to Be one of the first programmers who Work with #Kmm_Technology
+
 - 🔭 I’m currently working on Dawam Company as Android Developer
 - 🌱 I’m currently learning Kotlin Multi-Platform for 6 months
 - 🤔 I’m Intersted in Kotlin , Unittest , SwiftUi , Mvi , Ktor Technologies
 - 💬 Ask me about Kotlin , Android , SwiftUi
 - 📫 How to reach me: AshrafDawoud1111@gmail.com or +201030811763 
--  LinkedIn Profile : https://www.linkedin.com/in/ashrafdawoud/
--  StackOverFlow : https://stackoverflow.com/users/17863606/dawoud
+
+[![Linkedin Badge](https://img.shields.io/badge/-AshrafDawoud-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashrafdawoud/)](https://www.linkedin.com/in/ashrafdawoud/)
+[![StackOverFlow Badge](https://img.shields.io/badge/-AshrafDawoud-gray?style=flat-square&logo=StackOverfLow&logoColor=orange&link=https://stackoverflow.com/users/17863606/dawoud/)](https://stackoverflow.com/users/17863606/dawoud/)
